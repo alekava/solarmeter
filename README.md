@@ -8,9 +8,9 @@ Il funzionamento si basa sui dati dei quarti orari prelevati da e-distribuzione 
 
 Creare un jar execuatable, o lanciare da IDE la classe src/main/java/com/alekava/meters/MeterGui.java
 
-Scegliere un periodo di osservazione (ad esempio un intero anno solare)
-Scaricare i files dei consumi da e-distribuzione relativi al periodo e salvarli in una cartella
-Scaricare i files delle immissioni da e-distribuzione relativi allo stesso periodo e salvarli in una cartella diversa
+Scegliere un periodo di osservazione (ad esempio un intero anno solare).
+Scaricare i files dei consumi da e-distribuzione relativi al periodo e salvarli in una cartella.
+Scaricare i files delle immissioni da e-distribuzione relativi allo stesso periodo e salvarli in una cartella diversa.
 Relativamente ai files, si possono tranquillamente scaricare cosi come sono, ovviamente con nomi diversi. Il software provvedera' in ogni caso ad ordinarli in ordine cronologico.
 Ovviamente serve cura che i periodi di consumi e immissioni coincidano...
 
