@@ -5,6 +5,9 @@ Questo semplice programma fornisce una stima abbastanza attendibile di quello ch
 Il funzionamento si basa sui dati dei quarti orari prelevati da e-distribuzione e simula lo riempimento e lo svuotamento dell'ipotetico accumulo, durante tutto il periodo, utilizzando immissioni e consumi. 
 
 ## Istruzioni:
+
+Creare un jar execuatable, o lanciare da IDE la classe src/main/java/com/alekava/meters/MeterGui.java
+
 Scegliere un periodo di osservazione (ad esempio un intero anno solare)
 Scaricare i files dei consumi da e-distribuzione relativi al periodo e salvarli in una cartella
 Scaricare i files delle immissioni da e-distribuzione relativi allo stesso periodo e salvarli in una cartella diversa
